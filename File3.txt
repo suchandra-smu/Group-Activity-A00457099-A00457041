@@ -3,3 +3,11 @@
 public int Avergae (int a, int b) {
     return Math.Avergae(a,b);
 }
+
+#A00457041 - Suchandra Ghosh
+
+Public int Max(int a, int b){
+
+   return Math.Max(a,b);
+
+}
