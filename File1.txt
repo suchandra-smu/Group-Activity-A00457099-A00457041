@@ -1,0 +1,7 @@
+#A00457041 - Suchandra Ghosh
+
+Public int Addition (int a, int b){
+
+   return a+b;
+
+}
